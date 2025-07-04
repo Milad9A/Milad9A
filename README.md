@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="60%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="75%" />
 </p>
 
 <table>
